@@ -1,0 +1,483 @@
+@media (min-width: 300px) and (max-width: 575.98px) { 
+    .abc{
+
+    }
+    .explique_part p {
+        padding: 17px 28px 0px 0px;
+    }
+    .expliqietm111 {
+        padding: 0px 0px;
+    }
+    .nav-part-1 p {
+        text-align: center;
+    }
+    .nav-part-1 p {
+        padding: 12px 8px 0px 8px;
+        margin-bottom: -8px;
+    }
+    .nav-part-2 .nav-part-p2 {
+        margin: 15px 0px 15px 24px;
+    }
+    .justify-content-end {
+        justify-content: center !important;
+    }
+    .navbar {
+        padding-top: -0.5rem;
+        height: 93px;
+        padding-top: 0px;
+    }
+    .banner_content h1 {
+        font-size: 40px;
+    }
+    .banner_a .banner_a_bg {
+        font-size: 20px;
+        padding: 8px;
+        font-size: 14px;
+        margin-right: 6px;
+    }
+    .banner_img {
+        padding-top: 120px;
+    }
+    #ads_area img {
+        margin: 0px -22px;
+    }
+    #service_area h2 {
+        font-size: 39px;
+    }
+    #service_area .service_pp {
+        padding-bottom: 8px;
+    }
+    .entreprises_title h2 {
+        font-size: 38px;
+    }
+    .over_tab h3 {
+        padding: 10px 0px 0px 25px;
+        font-size: 28px;
+    }
+    .banner_img img {
+        width: 100%;
+    }
+    .mission_yy_card {
+        padding: 73px 58px 36px 52px;
+        width: 100%;
+    }
+    .mission_yy_card h3 {
+        font-family: Alliance No.2;
+        font-size: 20px;
+    }
+    .nav-pills .nav-link {
+        margin-right: 0px;
+        padding: 0px 0px;
+    }
+    .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+        padding: 0px 0px;
+    }
+    .rectangle_img img {
+        width: 100%;
+    }
+    .rr_div {
+        left: 0%;
+        transform: translateY(-80%);
+        bottom: -144px;
+    }
+    .rr_div h2 {
+        font-size: 23px;
+        line-height: 24px;
+        color: #17232D;
+    }
+    .nav-link img {
+        width: 50%;
+        padding-top: 10px;
+    }
+    .offer-div {
+        left: -84px;
+    }
+    .offer_part2 a {
+        margin-right: 30px;
+        padding-bottom: 17px;
+    }
+    .explique_card_3 {
+        width: 0px;
+        left: 30px;
+        /* display: none; */
+        /* height: ; */
+        border: 0px solid #fff;
+    }
+    .link_bg_banner {
+        left: 0%;
+    }
+    .adds{
+        margin-bottom: 40px;
+    }
+    .articles_card img {
+        width: 100%;
+    }
+    .expliqietm {
+        text-align: center;
+    }
+    .articles_card img {
+        width: 100%;
+        margin-top: 10px;
+    }
+    .entrep_list {
+        text-align: center;
+        margin-bottom: 21px;
+    }
+    .over_tab h2 {
+        padding: 35px 0px 0px 28px;
+        font-size: 19px;
+        line-height: 21px;
+    }
+    .explique_card_1 {
+        width: 100%;
+    }
+    .explique_title h3 {
+        font-size: 24px;
+        width: 328px;
+    }
+    .offer-imf img {
+        left: -120px;
+    }
+    .offer-div h4 {
+        padding-left: 40px;
+    }
+    .offer_part2 {
+        padding-left: 10px;
+    }
+    .for_border img {
+        /* padding-right: -6px; */
+        margin-left: 0px;
+        width: 95%;
+    }
+    .navbar-brand img {
+        padding: 30px 0;
+        margin-right: 33px;
+        width: 77%;
+    }
+    .explique_card_2 {
+        padding: 40px 32px 40px 32px;
+    }
+    #explique_area {
+        padding-bottom: 0px;
+    }
+    #nous_aidons_area h2 {
+        padding-top: 27px;
+    }#nous_area {
+        padding-bottom: 41px;
+    }
+    .cous_a1 {
+        margin-top: 20px;
+        padding-bottom: 0px;
+    }
+    #articles_area {
+        padding-top: 30px;
+    }
+    #nous_aidons_area {
+        padding-bottom: 28px;
+    }
+    #articles_area {
+        padding-bottom: 60px;
+    }
+    #contact_area {
+        padding-top: 35px;
+        padding-bottom: 116px;
+    }
+    .contact1 h3 {
+        line-height: 50px;
+    }
+    #contact_area {
+        padding-bottom: 27px;
+    }
+    .footer_link_list h4 {
+        text-align: center;
+    }
+    .footer_link_list ul {
+        text-align: center;
+    }
+ }
+@media (min-width: 576px) and (max-width: 767.98px) { 
+
+    .nav-part-1 p {
+        text-align: center;
+    }
+    .nav-part-1 p {
+        padding: 5px 8px;
+    }
+    .justify-content-end {
+        justify-content: center !important;
+    }
+    .navbar {
+        padding-top: -0.5rem;
+        height: 100px;
+    }
+    .banner_content h1 {
+        font-size: 51px;
+    }
+    .banner_img img {
+        width: 100%;
+    }
+    .mission_yy_card {
+        padding: 73px 58px 36px 52px;
+        width: 100%;
+    }
+    .mission_yy_card h3 {
+        font-family: Alliance No.2;
+        font-size: 20px;
+    }
+    .nav-pills .nav-link {
+        margin-right: 12px;
+    }
+    .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+        padding: 24px 32px;
+    }
+    .rectangle_img img {
+        width: 100%;
+    }
+    .rr_div {
+        left: 0%;
+        transform: translateY(-80%);
+    }
+    .offer-div {
+        left: -84px;
+    }
+    .offer_part2 a {
+        margin-right: 30px;
+        padding-bottom: 17px;
+    }
+    .explique_card_3 {
+        width: 0px;
+        left: 30px;
+        /* display: none; */
+        /* height: ; */
+        border: 0px solid #fff;
+    }
+    .link_bg_banner {
+        left: 0%;
+    }
+    .adds{
+        margin-bottom: 40px;
+    }
+    .articles_card img {
+        width: 100%;
+    }
+    .expliqietm {
+        text-align: center;
+    }
+    .articles_card img {
+        width: 100%;
+        margin-top: 10px;
+    }
+    .entrep_list {
+        text-align: center;
+        margin-bottom: 21px;
+    }
+    .over_tab h2 {
+        padding: 29px 0px 0px 40px;
+        font-size: 23px;
+        line-height: 36px;
+    }
+    .explique_title h3 {
+        font-size: 43px;
+        width: 530px;
+    }
+    .offer-imf img {
+        left: -52px;
+    }
+ }
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    .nav-part-1 p {
+        text-align: center;
+    }
+    .nav-part-1 p {
+        padding: 5px 8px;
+    }
+    .justify-content-end {
+        justify-content: center !important;
+    }
+    .navbar {
+        padding-top: -0.5rem;
+        height: 100px;
+    }
+    .banner_content h1 {
+        font-size: 51px;
+    }
+    .banner_img img {
+        width: 100%;
+    }
+    .mission_yy_card {
+        padding: 73px 58px 36px 52px;
+        width: 100%;
+    }
+    .mission_yy_card h3 {
+        font-family: Alliance No.2;
+        font-size: 20px;
+    }
+    .nav-pills .nav-link {
+        margin-right: 12px;
+    }
+    .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+        padding: 24px 32px;
+    }
+    .rectangle_img img {
+        width: 100%;
+    }
+    .rr_div {
+        left: 0%;
+        transform: translateY(-80%);
+    }
+    .offer-div {
+        left: -84px;
+    }
+    .offer_part2 a {
+        margin-right: 30px;
+        padding-bottom: 17px;
+    }
+    .explique_card_3 {
+        width: 548px;
+        left: 30px;
+    }
+    .link_bg_banner {
+        left: 0%;
+    }
+    .adds{
+        margin-bottom: 40px;
+    }
+    .articles_card img {
+        width: 100%;
+    }
+    .expliqietm {
+        text-align: center;
+    }
+    .articles_card img {
+        width: 100%;
+        margin-top: 10px;
+    }
+    .over_tab h2 {
+        padding: 61px 0px 0px 40px;
+    }
+ }
+/* =========================================================
+========================================================= */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .navbar-brand img {
+        margin-right: 25px !important;
+    }
+    .navbar {
+        height: 80px;
+    }
+    .banner_content h1 {
+        font-size: 50px;
+    }
+    .banner_img img {
+        width: 100%;
+    }
+    .mission_yy_card {
+        padding: 73px 30px 36px 52px;
+        width: 108%;
+    }
+    .mission_yy_card h3 {
+        font-size: 31px;
+    }
+    .nav-pills .nav-link {
+        margin-right: -23px;
+    }
+    .rectangle_img img {
+        width: 100%;
+    }
+    .rr_div {
+        bottom: -50%;
+    }
+    .rr_div h2 {
+        font-size: 37px;
+    }
+    .explique_card_3 {
+        width: 10px;
+        height: 469px;
+        left: -261px;
+    }
+    .for_border {
+        left: -20px;
+    }
+    .for_border img {
+        /* padding-right: -6px; */
+        margin-left: 4px;
+        margin-top: 61px;
+        margin-bottom: -33px;
+        width: 100%;
+    }
+    .articles_card img {
+        width: 100%;
+    }
+ }
+/* =========================================================
+========================================================= */
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+
+.banner_img img {
+        width: 100%;
+    }
+    .mission_yy_card {
+        padding: 73px 134px 36px 52px;
+        width: 127%;
+    }
+    .explique_card_3 {
+        width: 545px;
+    }
+    .mission_yy_card h3 {
+        font-size: 38px;
+    }
+    .mission_yy_card {
+        padding: 73px 70px 36px 52px;
+        width: 100%;
+    }
+    .nav-pills .nav-link {
+        margin-right: 26px;
+    }
+    .explique_card_3 {
+        width: 432px;
+        top: 10px;
+    }
+    .articles_card img {
+        width: 100%;
+    }
+
+
+ }
+/* =========================================================
+========================================================= */
+@media (min-width: 1400px) and (max-width: 1499.98px){ 
+    .banner_img img {
+        width: 100%;
+    }
+    .mission_yy_card {
+        padding: 73px 134px 36px 52px;
+        width: 127%;
+    }
+    .explique_card_3 {
+        width: 545px;
+    }
+    .mission_yy_card h3 {
+        font-size: 38px;
+    }
+    .mission_yy_card {
+        padding: 73px 70px 36px 52px;
+        width: 100%;
+    }
+    
+ }
+/* =========================================================
+========================================================= */
+ @media (min-width: 1500px){
+    .banner_img img {
+        width: 100%;
+    }
+    .mission_yy_card {
+        padding: 73px 134px 36px 52px;
+        width: 127%;
+    }
+    .explique_card_3 {
+        width: 545px;
+    }
+
+ }
+ 
